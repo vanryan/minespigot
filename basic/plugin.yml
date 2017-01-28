@@ -1,0 +1,6 @@
+name: SpigotPlugin
+main: com.vr.trPlugin.SpigotPlugin
+version: 1.0
+commands:
+  vtp:
+    description: teleport
